@@ -1,0 +1,14 @@
+Package: carteMaroc
+Title: carte Maroc 2015
+Version: 0.0.0.9000
+Authors@R: person("Mohamed", "TIMMI", email = "timmi.med@gmail.com", role = c("aut", "cre"))
+Description: carte regions Maroc 2015.
+Depends: R (>= 3.5.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
+Suggests: testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
